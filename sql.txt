@@ -1,0 +1,1 @@
+Testando configuração sql pra fazer commit no github.
